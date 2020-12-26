@@ -28,6 +28,6 @@
   "rules": {
     "prettier/prettier":"error",
     "space-before-function-paren":"off",
-    "react/proptypes":"off"
+    "react/prop-types":"off"
   }
 }
