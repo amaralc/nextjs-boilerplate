@@ -1,0 +1,3 @@
+- `yarn create react-app name-of-app`
+- `yarn add typescript @types/node @types/react -D`
+- `yarn dev`
